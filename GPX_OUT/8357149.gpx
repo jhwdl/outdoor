@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Connect" version="1.1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+  <metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2014-12-16T11:05:54.000Z</time>
+  </metadata>
+  <trk>
+    <type>running</type>
+    <trkseg>
+      <trkpt lat="38.85734799318015575408935546875" lon="121.43690158613026142120361328125">
+        <ele>32.200000762939453125</ele>
+        <time>2014-12-16T11:07:07.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="38.857435248792171478271484375" lon="121.4369868300855159759521484375">
+        <ele>32.200000762939453125</ele>
+        <time>2014-12-16T11:07:10.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="38.8574503362178802490234375" lon="121.4370237104594707489013671875">
+        <ele>32.200000762939453125</ele>
+        <time>2014-12-16T11:07:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="38.85749383829534053802490234375" lon="121.43710124306380748748779296875">
+        <ele>32</ele>
+        <time>2014-12-16T11:07:14.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="38.8575440458953380584716796875" lon="121.4371593296527862548828125">
+        <ele>31.799999237060546875</ele>
+        <time>2014-12-16T11:07:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="38.857602216303348541259765625" lon="121.43723116256296634674072265625">
+        <ele>31.799999237060546875</ele>
+        <time>2014-12-16T11:07:19.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+      <trkpt lat="38.85764286853373050689697265625" lon="121.43728447146713733673095703125">
+        <ele>31.799999237060546875</ele>
+        <time>2014-12-16T11:07:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension/>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
